@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "..\\GitHub\\proper project"
+		},
+		{
+			"path": "..\\..\\Pictures\\javascript"
+		},
+		{
+			"path": "..\\..\\Desktop\\New folder\\We"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "javascript"
+	}
+}
